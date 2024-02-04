@@ -1,0 +1,53 @@
+* { 
+    padding:0px;
+     margin:0px;
+  }
+  #banner-sec 
+  {
+	height:100vh;
+	background:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(../image/img.jpg);
+   	background-size:cover;
+	background-position:center;
+  }	
+  .content
+  {
+    padding-left:80px;
+	padding-top:250px;
+  }
+  h1
+  {
+    font-size:50px;
+	color:white;
+	font-family:arial;
+  }	  
+  p 
+  {
+    font-size:20px;
+	color:white;
+	font-family:arial;
+  }	 
+  input
+  { 
+    border:none;
+  }
+  .user
+  { 
+    border:2px solid white;
+    background-color:white;
+    height:50px;
+    width:35%;
+    padding:7px 10px;	 
+  }
+  .user1
+  { 
+    padding:15px 0px;
+	font-size:20px;
+  }
+  .user2 
+  {
+	border-radius:8px;
+	background-color:tomato;
+	color:white;
+	padding:15px 20px;
+	float:right;
+  }	   
